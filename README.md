@@ -3,7 +3,7 @@ Salary Outlier Detection using AI
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-1.5.3-green)
 ![NumPy](https://img.shields.io/badge/NumPy-1.26.0-orange)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.3.2-yellow)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.3.2-yelllow)
 
 Table of Contents
 - [Project Description](#project-description)
