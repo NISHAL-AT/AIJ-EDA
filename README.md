@@ -33,7 +33,7 @@ Visualizations:
 ### 🔹 Industry Count
 Shows the number of AI jobs in each **industry**.  
 Helps identify which sectors are hiring the most AI talent.  
-![Industry Count](images/industry_count.png)
+![Industry Count](images/Industry_count.png)
 
 Explanation:
 
