@@ -30,3 +30,42 @@ Dataset Columns:
 
 Visualizations:
 
+### 🔹 Industry Count
+Shows the number of AI jobs in each **industry**.  
+Helps identify which sectors are hiring the most AI talent.  
+![Industry Count](images/industry_count.png)
+
+Explanation:
+
+$ Taller bars indicate industries with more AI job postings.
+
+$ Helps identify key sectors where AI skills are most in demand.
+
+### 🔹 Salary Distribution
+Shows the **spread of salaries** for AI jobs.  
+Helps understand salary ranges and variability across roles.  
+![Salary Boxplot](images/salary_boxplot.png)
+
+Explanation:
+
+$ The box represents the interquartile range (middle 50% of salaries).
+
+$ The line inside the box is the median salary.
+
+$ Whiskers and outliers show the spread and extreme salaries.
+
+$ Gives an overview of salary variability across AI jobs.
+
+Key Insights:
+
+$ Most AI jobs are concentrated in [top industries].
+
+$ Salary varies significantly across job roles and industries.
+
+$ Companies with higher AI adoption levels tend to offer higher salaries.
+
+$ Remote-friendly AI jobs are increasingly common.
+
+
+
+
